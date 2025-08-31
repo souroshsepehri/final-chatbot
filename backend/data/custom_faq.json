@@ -1,0 +1,154 @@
+{
+  "faqs": [
+    {
+      "question": "What is your name?",
+      "answer": "My name is ChatBot, and I'm here to help you with your questions!",
+      "category": "general",
+      "updated_at": "2025-08-31T12:21:30.933456"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm doing well, thank you for asking! How can I assist you today?",
+      "category": "general",
+      "updated_at": "2025-08-31T12:21:30.967920"
+    },
+    {
+      "question": "What time is it?",
+      "answer": "I don't have access to real-time information, but you can check your device's clock for the current time.",
+      "category": "general",
+      "updated_at": "2025-08-31T12:21:30.997903"
+    },
+    {
+      "question": "What is the weather like?",
+      "answer": "I don't have access to real-time weather data. You can check a weather app or website for current conditions.",
+      "category": "general",
+      "updated_at": "2025-08-31T12:21:31.034392"
+    },
+    {
+      "question": "Tell me a joke",
+      "answer": "Why don't scientists trust atoms? Because they make up everything! 😄",
+      "category": "entertainment",
+      "updated_at": "2025-08-31T12:21:31.072064"
+    },
+    {
+      "question": "سلام",
+      "answer": "سلام علیکم! خوش آمدید! چطور می‌تونم کمکتون کنم؟",
+      "category": "multilingual",
+      "updated_at": "2025-08-31T12:21:31.101417"
+    },
+    {
+      "question": "درود",
+      "answer": "درود بر شما! خوشحالم که با شما صحبت می‌کنم. چطور می‌تونم کمکتون کنم؟",
+      "category": "multilingual",
+      "updated_at": "2025-08-31T12:21:31.129598"
+    },
+    {
+      "question": "hello",
+      "answer": "Hello! Welcome! How can I help you today?",
+      "category": "multilingual",
+      "updated_at": "2025-08-31T12:21:31.154154"
+    },
+    {
+      "question": "hi",
+      "answer": "Hi there! I'm your AI assistant. How can I be of service?",
+      "category": "multilingual",
+      "updated_at": "2025-08-31T12:21:31.170624"
+    },
+    {
+      "question": "شروع",
+      "answer": "سلام! بله، بیایید شروع کنیم! چطور می‌تونم کمکتون کنم؟",
+      "category": "multilingual",
+      "updated_at": "2025-08-31T12:21:31.186230"
+    },
+    {
+      "question": "start",
+      "answer": "Hello! Yes, let's get started! How can I help you?",
+      "category": "multilingual",
+      "updated_at": "2025-08-31T12:21:31.213030"
+    },
+    {
+      "question": "What do you do?",
+      "answer": "ما یک شرکت اتوماسیون هوش مصنوعی هستیم",
+      "category": "company",
+      "updated_at": "2025-08-31T12:21:31.233997"
+    },
+    {
+      "question": "What is your company?",
+      "answer": "ما یک شرکت اتوماسیون هوش مصنوعی هستیم",
+      "category": "company",
+      "updated_at": "2025-08-31T12:21:31.256124"
+    },
+    {
+      "question": "What does your company do?",
+      "answer": "ما یک شرکت اتوماسیون هوش مصنوعی هستیم",
+      "category": "company",
+      "updated_at": "2025-08-31T12:21:31.271149"
+    },
+    {
+      "question": "Tell me about your work",
+      "answer": "ما یک شرکت اتوماسیون هوش مصنوعی هستیم",
+      "category": "company",
+      "updated_at": "2025-08-31T12:21:31.286781"
+    },
+    {
+      "question": "What services do you provide?",
+      "answer": "ما یک شرکت اتوماسیون هوش مصنوعی هستیم",
+      "category": "company",
+      "updated_at": "2025-08-31T12:21:31.304461"
+    },
+    {
+      "question": "شرکت شما چه کاری انجام می‌دهد؟",
+      "answer": "ما یک شرکت اتوماسیون هوش مصنوعی هستیم",
+      "category": "company",
+      "updated_at": "2025-08-31T12:21:31.321159"
+    },
+    {
+      "question": "شما چه کاری انجام می‌دهید؟",
+      "answer": "ما یک شرکت اتوماسیون هوش مصنوعی هستیم",
+      "category": "company",
+      "updated_at": "2025-08-31T12:21:31.337232"
+    },
+    {
+      "question": "خدمات شما چیست؟",
+      "answer": "ما یک شرکت اتوماسیون هوش مصنوعی هستیم",
+      "category": "company",
+      "updated_at": "2025-08-31T12:21:31.361079"
+    },
+    {
+      "question": "درباره کار شما بگویید",
+      "answer": "ما یک شرکت اتوماسیون هوش مصنوعی هستیم",
+      "category": "company",
+      "updated_at": "2025-08-31T12:21:31.379969"
+    },
+    {
+      "question": "تایم کاری",
+      "answer": "24 ساعت روز پشتیبانی داریم",
+      "category": "تایم کاری",
+      "updated_at": "2025-08-31T12:21:31.398909"
+    },
+    {
+      "question": "ساعات کاری",
+      "answer": "24 ساعت روز پشتیبانی داریم",
+      "category": "تایم کاری",
+      "updated_at": "2025-08-31T12:21:31.418614"
+    },
+    {
+      "question": "ساعت کار",
+      "answer": "24 ساعت روز پشتیبانی داریم",
+      "category": "تایم کاری",
+      "updated_at": "2025-08-31T12:21:31.437783"
+    },
+    {
+      "question": "working hours",
+      "answer": "24 ساعت روز پشتیبانی داریم",
+      "category": "تایم کاری",
+      "updated_at": "2025-08-31T12:21:31.454087"
+    },
+    {
+      "question": "business hours",
+      "answer": "24 ساعت روز پشتیبانی داریم",
+      "category": "تایم کاری",
+      "updated_at": "2025-08-31T12:21:31.471716"
+    }
+  ]
+}
